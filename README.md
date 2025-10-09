@@ -3,5 +3,5 @@
  <!-- this is a comment --> 
 
 #### Histogram
- ![Histogram]/(images/histogram1.png)
+ ![Histogram](images/histogram1.png)
 
