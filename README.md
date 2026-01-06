@@ -2,6 +2,6 @@
 ### First repository for module 5 of DS course
  <!-- this is a comment --> 
 
-#### Histogram
- ![Histogram](images/histogram1.png)
+#### K- means GIF
+ ![gif](images/histogram1.png)
 
